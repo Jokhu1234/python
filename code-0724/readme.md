@@ -1,0 +1,3 @@
+> py --version
+> py
+> > > quit ()
